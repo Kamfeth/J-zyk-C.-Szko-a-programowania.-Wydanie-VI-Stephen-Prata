@@ -1,0 +1,2 @@
+Cele programu: Program powinien być w stanie prawidłowo przeliczać wprowadzoną przez użytkownika liczbę cali na liczbę centymetrów oraz wyświetlić tę wartość do odczytu.
+Projekt programu: Program na początku powinien poprosić użytkownika o wprowadzenie liczby cali. Po wprowadzeniu liczby powinna ona zostać zapisana, a następnie przekonwertowana na liczbę centymetrów. Po konwersji należy poinformować użytkownika o prawidłowej realizacji programu, a następnie wyświetlić przekonwertowaną liczbę na ekran.

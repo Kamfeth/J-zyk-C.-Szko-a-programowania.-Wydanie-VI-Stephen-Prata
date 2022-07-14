@@ -1,0 +1,1 @@
+Oznacza to, że napisane oprogramowanie na jednym środowisku będzie również działać na innym środowisku, bez żadnej modyfikacji kodu.

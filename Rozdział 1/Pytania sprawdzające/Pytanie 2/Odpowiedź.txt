@@ -1,0 +1,1 @@
+Plik kodu źródłowego jest w postaci zapisanych instrukcji programistycznych, plik kodu obiektowego jest wynikiem przetłumaczenia kodu źródłowego na kod maszynowy, natomiast plik wykonywalny jest ostateczną formą oprogramowania, którą można już prawidłowo uruchomić na urządzeniu.

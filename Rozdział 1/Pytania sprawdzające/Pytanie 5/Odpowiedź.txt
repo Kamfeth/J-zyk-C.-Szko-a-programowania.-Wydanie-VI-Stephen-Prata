@@ -1,0 +1,1 @@
+Linker służy do tego, aby złączyć wiele plików kodu źródłowego, biblioteki oraz moduły w jedną spójną całość, jeżeli występują między nimi jakieś zależności, ostatecznie tworząc jeden program wykonywalny.

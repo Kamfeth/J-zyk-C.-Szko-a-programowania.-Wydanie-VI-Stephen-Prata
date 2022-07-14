@@ -1,0 +1,1 @@
+Kompilator służy do tłumaczenia zapisanych instrukcji programistycznych na kod maszynowy.

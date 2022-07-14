@@ -1,0 +1,7 @@
+1. Określenie celów programu
+2. Projektowanie programu
+3. Pisanie kodu
+4. Kompilacja
+5. Uruchomienie programu
+6. Testowanie i usuwanie błędów
+7. Pielęgnowanie i modyfikowanie programu
