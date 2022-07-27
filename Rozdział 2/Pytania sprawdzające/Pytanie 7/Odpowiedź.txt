@@ -1,0 +1,1 @@
+printf("Bylo %d slow i %d wierszy.", slowa, wiersze);

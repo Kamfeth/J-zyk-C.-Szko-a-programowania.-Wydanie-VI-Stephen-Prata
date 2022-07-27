@@ -1,0 +1,1 @@
+Błąd semantyczny polega na utworzeniu sformułowania, które jest prawidłowo zbudowane, jednak zawiera nieprawidłowe znaczenie. Błędny przykład w języku polskim: Liczba 2 jest nieparzysta. Błędny przykład w języku C: int liczbaDniWLutym = 31;.

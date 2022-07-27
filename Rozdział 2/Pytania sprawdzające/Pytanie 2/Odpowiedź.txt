@@ -1,0 +1,1 @@
+Błąd składniowy polega na utworzeniu nieprawidłowego sformułowania według ogólnych zasad budowania zdań. Błędny przykład w języku polskim: Kamil herbatą oparzyć się gorącą. Błędny przykład w języku C: printf['Kamil ma 28 lat'].

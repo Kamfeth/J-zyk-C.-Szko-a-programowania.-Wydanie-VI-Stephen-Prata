@@ -1,0 +1,11 @@
+Poniżej znajduje się poprawiona wersja programu:
+
+#include <stdio.h>
+int main(void) /* program wyswietla liczbe tygodni w roku */
+{
+int s;
+
+s = 52;
+printf("W roku jest %d tygodni.\n", s);
+return 0;
+}

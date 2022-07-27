@@ -1,0 +1,1 @@
+Z podanych wyrazów, słowami kluczowymi języka C są int oraz char.
