@@ -1,0 +1,4 @@
+char ch = '\r';
+char ch = 13;
+char ch = '\015';
+char ch = '\xd';

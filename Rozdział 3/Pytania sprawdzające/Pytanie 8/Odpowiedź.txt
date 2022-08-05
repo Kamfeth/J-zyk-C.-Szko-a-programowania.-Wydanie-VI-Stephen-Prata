@@ -1,0 +1,2 @@
+printf("Szanse przeciwko numerowi %d byly jak %ld do 1.\n", encja, inus);
+printf("Liczbe %f oznaczamy symbolem %c.\n", e, symbol);

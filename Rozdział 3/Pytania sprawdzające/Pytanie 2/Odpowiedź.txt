@@ -1,0 +1,1 @@
+Wybrałbym zmienną typu long w przypadku, kiedy potrzebowałbym przetwarzać liczby większe niż te, które jest w stanie przechować typ int na moim komputerze.

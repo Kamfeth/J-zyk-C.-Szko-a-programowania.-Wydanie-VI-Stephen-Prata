@@ -1,0 +1,5 @@
+a) Stała typu char, znak ten odzwierciedla zachowanie przycisku na klawiaturze o nazwie Backspace
+b) Stała typu int
+c) Stała typu double
+d) Stała typu unsigned int w postaci szesnastkowej
+e) Stała typu double

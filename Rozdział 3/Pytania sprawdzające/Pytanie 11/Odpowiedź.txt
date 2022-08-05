@@ -1,0 +1,4 @@
+a) Znak nowej linii
+b) Backslash
+c) Cudzysłów
+d) Tabulator

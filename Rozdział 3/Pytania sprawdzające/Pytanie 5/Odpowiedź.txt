@@ -1,0 +1,14 @@
+Poniżej znajduje się poprawiona wersja programu:
+
+#include <stdio.h>
+int main(void)
+{
+ float g, h;
+ float podatek, stawka;
+
+ stawka = 0.05;
+ g = 1.0e21;
+ podatek = stawka*g;
+ h = g + podatek;
+ printf("Kalkulator podatkowy: od kwoty %.2f zł pobrano podatek w wysokości %.2f zł, suma kwot wynosi %.2f zł.", g, podatek, h);
+}

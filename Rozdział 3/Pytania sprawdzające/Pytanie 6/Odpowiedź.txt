@@ -1,0 +1,9 @@
+a) int, %d
+b) unsigned int, %#X
+c) char, %c
+d) double, %e
+e) char, %c
+f) double, %lf
+g) long, %ld
+h) float, %f
+i) float, %a

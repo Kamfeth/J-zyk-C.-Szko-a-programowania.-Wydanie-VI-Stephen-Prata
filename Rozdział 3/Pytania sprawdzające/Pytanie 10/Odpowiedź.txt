@@ -1,0 +1,13 @@
+Poniżej znajduje się poprawiona wersja programu:
+
+#include <stdio.h>
+
+int main(void) // ten program jest bezbledny //
+{
+ int krowy, nogi;
+ 
+ printf("Ile krowich nog naliczyles?\n");
+ scanf("%d", &nogi);
+ krowy = nogi / 4;
+ printf("Wyglada na to, ze masz %d krow.\n", krowy);
+}

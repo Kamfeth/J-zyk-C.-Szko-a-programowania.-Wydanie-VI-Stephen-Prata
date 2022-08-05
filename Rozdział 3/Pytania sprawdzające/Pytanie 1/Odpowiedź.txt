@@ -1,0 +1,4 @@
+a) short, unsigned short oraz int
+b) float
+c) char
+d) int

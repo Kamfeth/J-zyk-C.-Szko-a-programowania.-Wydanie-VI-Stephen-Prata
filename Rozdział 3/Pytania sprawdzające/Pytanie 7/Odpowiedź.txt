@@ -1,0 +1,8 @@
+a) unsigned int, %#o
+b) long double, %Le
+c) char, %c
+d) long, %ld
+e) char, %c
+f) float, %f
+g) unsigned int, %x
+h) int, %d
