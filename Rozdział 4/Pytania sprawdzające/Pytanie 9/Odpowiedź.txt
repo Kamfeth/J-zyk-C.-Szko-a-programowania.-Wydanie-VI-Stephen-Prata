@@ -1,0 +1,11 @@
+a) int number;
+   scanf("%d", &number);
+b) double firstNumber, secondNumber;
+   scanf("%lf%lf", &firstNumber, &secondNumber);
+c) char nameOfFootballClub[8];
+   scanf("%s", nameOfFootballClub);
+d) char word[9];
+   int number;
+   scanf("%s%d", word, &number);
+e) int number;
+   scanf("%*s%d", &number);

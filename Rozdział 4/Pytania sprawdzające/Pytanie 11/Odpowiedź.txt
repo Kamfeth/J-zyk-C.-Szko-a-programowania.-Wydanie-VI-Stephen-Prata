@@ -1,0 +1,1 @@
+Zapisany specyfikator formatu %z jest niekompletny, wymaga dodatkowej informacji. Można to poprawić, zastępując fragment tekstu %z na %zd.

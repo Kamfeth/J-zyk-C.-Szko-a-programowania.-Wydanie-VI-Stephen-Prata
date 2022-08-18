@@ -1,0 +1,1 @@
+printf("Cena hurtowa tego egzemplarza ksiazki \"%s\" wynosi %.2f zl.\nJest to %.0f%% ceny koncowej.", KSIAZKA, cena, procent);

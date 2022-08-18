@@ -1,0 +1,1 @@
+Przed oraz po specyfikatorze formatu %s, należy umieścić sekwencję \", która wyświetla pojedynczy znak ".

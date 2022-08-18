@@ -1,0 +1,1 @@
+Znaki niedrukowane są to odstępy, tabulatory oraz znaki nowej linii.

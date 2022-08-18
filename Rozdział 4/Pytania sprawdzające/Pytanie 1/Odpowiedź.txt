@@ -1,0 +1,1 @@
+Po wprowadzeniu imienia oraz nazwiska program pomija instrukcję wprowadzenia liczby funtów. Dzieje się tak, ponieważ pierwsze wywołanie funkcji scanf zapisuje tylko jedno słowo wprowadzone przez użytkownika, wprowadzone nazwisko znajduje się w buforze wejścia, wartość ta zostaje przypisana do zmiennej typu float, co skutkuje nieoczekiwanym zachowaniem programu.
