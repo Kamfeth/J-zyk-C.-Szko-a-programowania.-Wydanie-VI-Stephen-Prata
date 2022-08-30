@@ -1,0 +1,1 @@
+Program będzie w nieskończoność wyświetlać tekst o treści - KOMPUTER GRYZIE PSA, każdy tekst jest zawarty w nowym wierszu.

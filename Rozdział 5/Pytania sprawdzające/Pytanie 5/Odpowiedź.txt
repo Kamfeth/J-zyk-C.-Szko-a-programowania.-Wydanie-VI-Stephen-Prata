@@ -1,0 +1,1 @@
+Jednym z powodów jest fakt iż zmienna sek nie jest przed wejściem do pętli while w ogóle inicjalizowana, przez co zawiera w sobie przypadkową liczbę. Kolejny powód to fakt iż w pętli while możemy jeden raz wprowadzić liczbę sekund, która nie spełnia warunku pętli, a mimo to całe ciało pętli zostanie zrealizowane.

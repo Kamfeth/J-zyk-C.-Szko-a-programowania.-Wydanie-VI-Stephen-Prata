@@ -1,0 +1,3 @@
+Program wyświetli następującą zawartość:
+
+DAD:3 3.00

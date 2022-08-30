@@ -1,0 +1,8 @@
+Program wyświetli następującą zawartość:
+
+%s jest lancuchem
+ jest lancuchem
+1
+1
+2
+1
