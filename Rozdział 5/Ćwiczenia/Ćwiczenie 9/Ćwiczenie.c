@@ -16,7 +16,7 @@ int main(void)
 {
   double temperaturaWFahrenheitach;
   printf("Wprowadź wartość temperatury w fahrenheitach (wprowadzenie wartości nieliczbowej kończy program): ");
-  while (scanf("%lf", &temperaturaWFahrenheitach) == 1)
+  while (scanf("%lf", &temperaturaWFahrenheitach))
   {
     Temperatura(temperaturaWFahrenheitach);
     printf("Wprowadź wartość temperatury w fahrenheitach (wprowadzenie wartości nieliczbowej kończy program): ");
