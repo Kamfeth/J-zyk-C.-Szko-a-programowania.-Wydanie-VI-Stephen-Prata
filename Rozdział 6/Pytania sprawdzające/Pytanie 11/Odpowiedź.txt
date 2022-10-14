@@ -1,0 +1,16 @@
+Program zawiera błędy związane z nieprawidłową obsługą tablicy. Poniżej znajduje się poprawiona wersja programu:
+
+#include <stdio.h>
+#define ROZMIAR 8
+int main(void)
+{
+  int dwojkami[ROZMIAR];
+  int index;
+  
+  for (index = 0; index < ROZMIAR; index++)
+       dwojkami[index] = 2 * (index + 1);
+  for (index = 0; index < ROZMIAR; index++)
+       printf("%d ", dwojkami[index]);
+  printf("\n");
+  return 0;
+}

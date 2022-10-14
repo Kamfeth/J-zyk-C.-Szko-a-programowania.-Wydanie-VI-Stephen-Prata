@@ -1,0 +1,14 @@
+Poniższy program wyświetli następujące dane wyjściowe:
+
+1: Czesc!
+k = 1
+k w petli wynosi 1
+Teraz k jest rowne 3
+k = 3
+k w petli wynosi 3
+Teraz k jest rowne 5
+k = 5
+k w petli wynosi 5
+Teraz k jest rowne 7
+k = 7
+

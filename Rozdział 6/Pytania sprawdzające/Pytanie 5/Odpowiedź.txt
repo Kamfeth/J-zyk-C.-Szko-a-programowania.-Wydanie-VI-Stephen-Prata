@@ -1,0 +1,15 @@
+Program zawiera kilka błędów składniowych. Poniżej znajduje się poprawiona wersja programu:
+
+#include <stdio.h>
+int main(void)
+{                                  /* wiersz 3 */
+  int i, j, lista[10];             /* wiersz 4 */
+  
+  for (int i = 0; i < 10; i++)     /* wiersz 6 */
+  {                                /* wiersz 7 */
+      lista[i] = 2 * i + 3;        /* wiersz 8 */
+      for (j = 1; j <= i; j++)     /* wiersz 9 */
+          printf(" %d", lista[j]); /* wiersz 10 */
+      printf("\n");                /* wiersz 11 */
+  }                                /* wiersz 12 */
+}

@@ -1,0 +1,3 @@
+a) scanf(%d, &number)
+b) x != 5
+c) x >= 20

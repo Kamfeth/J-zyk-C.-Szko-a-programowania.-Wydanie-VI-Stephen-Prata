@@ -1,0 +1,6 @@
+Funkcja obliczająca kwadrat liczby całkowitej wygląda następująco:
+
+int calculateSquareOfNumber(const int number)
+{
+  return number * number;
+}
