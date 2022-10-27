@@ -1,0 +1,22 @@
+Poniżej znajduje się uproszczona i poprawiona wersja programu:
+
+#include <stdio.h>
+
+int main(void)
+{
+  int waga, wzrost;
+  printf("Podaj wagę w kilogramach oraz wzrost w centymetrach: ");
+  scanf("%d%d", &waga, &wzrost);
+  if (waga < 45)
+  {
+    if (wzrost >= 182)
+      printf("Jesteś bardzo wysoki jak na swoją wagę.");
+    else if (wzrost > 163)
+      printf("Jesteś wysoki jak na swoją wagę.");
+  }
+  else if (waga > 135 && wzrost < 122)
+    printf("Jesteś dość niski jak na swoją wagę.");
+  else
+    printf("Twoja waga jest idealna.");
+  return 0;
+}

@@ -1,0 +1,4 @@
+a) liczba >= 90 && liczba < 100
+b) ch != 'k' && ch != 'q'
+c) liczba >= 1 && liczba <=9 && liczba != 5
+d) liczba < 1 || liczba > 9

@@ -1,0 +1,6 @@
+Program wyświetli następujące dane wyjściowe:
+
+HurraHurrHurO nie!
+HurrHurO nie!
+HurO nie!
+

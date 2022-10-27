@@ -1,0 +1,25 @@
+Program wyświetli następujące dane wyjściowe:
+
+Dla wartości q:
+
+Krok 1
+Krok 2
+Krok 3
+
+
+Dla wartości c:
+
+Krok 1
+
+
+Dla wartości h:
+
+Krok 1
+Krok 3
+
+
+Dla wartości b:
+
+Krok 1
+Koniec
+

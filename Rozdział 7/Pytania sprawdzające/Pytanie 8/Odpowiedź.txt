@@ -1,0 +1,4 @@
+Program będzie wyświetlać w nieskończoność następujące dane wyjściowe:
+
+Masz 65 lat. Dostajesz zloty zegarek.
+

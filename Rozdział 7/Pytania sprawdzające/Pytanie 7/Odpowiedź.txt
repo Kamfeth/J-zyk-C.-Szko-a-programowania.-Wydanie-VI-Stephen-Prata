@@ -1,0 +1,23 @@
+W programie występują błędy składniowe, semantyczne oraz logiczne. Poniżej znajduje się poprawiona wersja programu:
+
+#include <ctype.h>
+#include <stdio.h>
+
+int main(void)
+{
+  char ch;
+  int ml = 0;    /* licznik małych liter   */
+  int wl = 0;    /* licznik wielkich liter */
+  int iz = 0;    /* licznik innych znaków  */
+  while ((ch = getchar()) != '#')
+  {
+    if (islower(ch))
+      ml++;
+    else if (isupper(ch))
+      wl++;
+    else
+      iz++;
+  }
+  printf("%d małych liter, %d wielkich liter, %d innych znaków,", ml, wl, iz);
+  return 0;
+}
