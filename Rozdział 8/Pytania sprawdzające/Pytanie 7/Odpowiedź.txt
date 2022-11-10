@@ -1,0 +1,1 @@
+Za pomocą mechanizmu strumieni, język C jest w stanie dopasować się do różnorodnych formatów przetwarzania plików.

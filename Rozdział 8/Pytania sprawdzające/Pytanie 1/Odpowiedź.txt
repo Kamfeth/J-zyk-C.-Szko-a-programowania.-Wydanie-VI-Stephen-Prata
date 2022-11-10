@@ -1,0 +1,1 @@
+Program najpierw wczyta znak za pomocą funkcji getchar, a następnie znak ten zostanie wyświetlony za pomocą funkcji putchar. Wyrażenie getchar(putchar()) jest nieprawidłowe.

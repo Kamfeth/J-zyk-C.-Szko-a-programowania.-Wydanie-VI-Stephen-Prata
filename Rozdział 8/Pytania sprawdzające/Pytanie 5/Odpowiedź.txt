@@ -1,0 +1,1 @@
+Jest to wartość informująca o tym, że program podczas odczytywania danych dotarł do samego końca.

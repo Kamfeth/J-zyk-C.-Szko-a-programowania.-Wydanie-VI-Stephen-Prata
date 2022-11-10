@@ -1,0 +1,4 @@
+a) H
+b) Użytkownik usłyszy dźwięk systemowy
+c) Na ekranie zostanie wypisany nowy pusty wiersz
+d) Cofnięcie kursora

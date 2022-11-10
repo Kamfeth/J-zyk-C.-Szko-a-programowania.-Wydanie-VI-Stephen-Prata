@@ -1,0 +1,1 @@
+Jeżeli program najpierw odczyta liczbę, a następnie znaki, wtedy powstaje problem polegający na tym, że pierwszym odczytanym znakiem jest znak nowej linii, pominięty po odczycie liczby.
