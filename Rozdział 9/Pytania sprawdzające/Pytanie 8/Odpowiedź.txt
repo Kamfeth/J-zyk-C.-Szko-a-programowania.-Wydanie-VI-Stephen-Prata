@@ -1,0 +1,4 @@
+int getBiggestNumberFromParameters(const int firstNum, const int secondNum, const int thirdNum)
+{
+  return firstNum < secondNum ? secondNum < thirdNum ? thirdNum : secondNum : firstNum < thirdNum ? thirdNum : firstNum;
+}

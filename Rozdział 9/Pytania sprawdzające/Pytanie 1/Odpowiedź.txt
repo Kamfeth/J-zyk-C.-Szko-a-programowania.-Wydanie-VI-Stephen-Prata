@@ -1,0 +1,1 @@
+Argument formalny jest zmienną, która opisuje typ oraz nazwę parametru przekazywanego do funkcji, natomiast argument faktyczny jest wartością, która jest przekazywana jako parametr funkcji.

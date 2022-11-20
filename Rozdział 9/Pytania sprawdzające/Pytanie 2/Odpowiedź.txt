@@ -1,0 +1,4 @@
+a) void pakiet(const int liczbaZer);
+b) int bieg(const int pierwszaLiczba, const int drugaLiczba);
+c) int zgadula(void);
+d) void podloga(const double pierwszaLiczba, double *drugaLiczba);

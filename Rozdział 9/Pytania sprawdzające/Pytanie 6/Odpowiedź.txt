@@ -1,0 +1,5 @@
+void zmien(int *x, int *y)
+{
+  *x += *y;
+  *y = *x - 2 * *y;
+}

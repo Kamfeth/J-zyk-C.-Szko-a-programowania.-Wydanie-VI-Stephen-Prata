@@ -1,0 +1,4 @@
+int getSumOfTwoNumbers(const int firstNumber, const int secondNumber)
+{
+  return firstNumber + secondNumber;
+}

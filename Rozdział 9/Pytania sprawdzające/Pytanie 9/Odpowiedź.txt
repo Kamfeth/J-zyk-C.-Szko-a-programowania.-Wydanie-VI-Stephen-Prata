@@ -1,0 +1,56 @@
+a)
+void printMenu(void)
+{
+  printf("Wybierz jedna z ponizszych mozliwosci:\n");
+  printf("1) kopiowanie plikow           2) przenoszenie plikow\n");
+  printf("3) usuwanie plikow             4) koniec\n");
+  printf("Podaj numer wybranej opcji: ");
+}
+
+b)
+int getNumberFromGivenRange(const int lowerLimit, const int upperLimit)
+{
+  int number, isIntegerNumberReceived;
+  printMenu();
+  while ((isIntegerNumberReceived = scanf("%d", &number)) && (number < lowerLimit || number > upperLimit))
+  {
+    printf("Wprowadzona liczba nie mieści się w zakresie liczb od %d do %d. Powrót do menu wyboru:\n\n", lowerLimit, upperLimit);
+    printMenu();
+  }
+  if (!isIntegerNumberReceived)
+    printf("Wprowadzono wartość, która nie jest liczbą całkowitą. W takim przypadku zostanie to potraktowane jako opcja #4\n");
+  return isIntegerNumberReceived ? number : 4;   
+}
+
+c)
+#include <stdio.h>
+
+void printMenu(void)
+{
+  printf("Wybierz jedna z ponizszych mozliwosci:\n");
+  printf("1) kopiowanie plikow           2) przenoszenie plikow\n");
+  printf("3) usuwanie plikow             4) koniec\n");
+  printf("Podaj numer wybranej opcji: ");
+}
+  
+int getNumberFromGivenRange(const int lowerLimit, const int upperLimit)
+{
+  int number, isIntegerNumberReceived;
+  printMenu();
+  while ((isIntegerNumberReceived = scanf("%d", &number)) && (number < lowerLimit || number > upperLimit))
+  {
+    printf("Wprowadzona liczba nie mieści się w zakresie liczb od %d do %d. Powrót do menu wyboru:\n\n", lowerLimit, upperLimit);
+    printMenu();
+  }
+  if (!isIntegerNumberReceived)
+    printf("Wprowadzono wartość, która nie jest liczbą całkowitą. W takim przypadku zostanie to potraktowane jako opcja #4\n");
+  return isIntegerNumberReceived ? number : 4;   
+}
+
+int main(void)
+{
+  int choosedOption;
+  while ((choosedOption = getNumberFromGivenRange(1, 4)) != 4)
+    printf("Wybrano opcję numer %d: Realizacja wybranego zadania w toku...\n\n", choosedOption);  
+  printf("Wybrano opcję numer %d. Do widzenia!", choosedOption);
+}

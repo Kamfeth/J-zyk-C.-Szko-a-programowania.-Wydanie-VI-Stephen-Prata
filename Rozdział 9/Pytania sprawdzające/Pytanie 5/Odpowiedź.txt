@@ -1,0 +1,6 @@
+W takim przypadku należałoby zastąpić typ przekazanych parametrów, z int na double oraz typ wartości zwracanej, z int na double. Poniżej znajduje się poprawiona wersja funkcji:
+
+double getSumOfTwoNumbers(const double firstNumber, const double secondNumber)
+{
+  return firstNumber + secondNumber;
+}

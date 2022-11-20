@@ -1,0 +1,4 @@
+a) char n_znak(const int liczba);
+b) int cyfry(const double pierwszaLiczba, const int drugaLiczba);
+c) double* ktory(const double *pierwszaLiczba, const double *drugaLiczba);
+d) int los(void);
