@@ -1,0 +1,1 @@
+Dziesięcioelementowa tablica w języku C może przyjmować wartości indeksów od 0 do 9, włącznie.

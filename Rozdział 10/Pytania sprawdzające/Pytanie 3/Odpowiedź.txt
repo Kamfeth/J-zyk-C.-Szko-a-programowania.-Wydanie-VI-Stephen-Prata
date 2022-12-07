@@ -1,0 +1,1 @@
+Adres tablicy ref wskazuje na jej pierwszy, zerowy element. Dodanie wartości 1 do tablicy ref sprawia, że adres wskazuje teraz na jej drugi element. Natomiast próba wywołania instrukcji ++ref wygeneruje błąd kompilacji.

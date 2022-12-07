@@ -1,0 +1,5 @@
+a) int cyfry[10];
+b) float oplaty[6];
+c) int mat[3][5];
+d) char (*wlanc)[20];
+e) char *twz[20];

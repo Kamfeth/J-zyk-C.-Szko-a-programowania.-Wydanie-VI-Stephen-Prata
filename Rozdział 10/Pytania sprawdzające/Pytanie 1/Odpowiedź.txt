@@ -1,0 +1,7 @@
+Przedstawiony fragment kodu wyświetli następujące dane wyjściowe:
+
+8 8
+4 4
+0 0
+2 2
+

@@ -1,0 +1,14 @@
+a) void processArrayOfDoubles(double arrayOfNumbers[], const int sizeOfArray);
+   void processArrayOfDoublesVLA(const int sizeOfArray, double arrayOfNumbers[sizeOfArray]);
+   processArrayOfDoubles(t, 20);
+   processArrayOfDoublesVLA(20, t);
+   
+b) void processArrayOfShortIntegers(short arrayOfNumbers[][30], const int sizeOfArray);
+   void processArrayOfShortIntegersVLA(const int rows, const int columns, short arrayOfNumbers[rows][columns]);
+   processArrayOfShortIntegers(c, 10);
+   processArrayOfShortIntegersVLA(10, 30, c);
+   
+c) void processArrOfLongs(long arrayOfNumbers[][10][15], const int sizeOfArray);
+   void processArrOfLongsVLA(const int matrixes, const int rows, const int columns, long arrayOfNumbers[matrixes][rows][columns];
+   processArrOfLongs(s, 5);
+   processArrOfLongsVLA(5, 10, 15, s);

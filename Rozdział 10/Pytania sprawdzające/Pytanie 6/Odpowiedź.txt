@@ -1,0 +1,3 @@
+a) &siatka[22][56];
+b) &siatka[22][0]; oraz &siatka[22];
+c) &siatka[0][0]; oraz &siatka[0]; oraz siatka[0];
