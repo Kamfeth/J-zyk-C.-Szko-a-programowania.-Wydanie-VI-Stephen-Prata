@@ -1,0 +1,4 @@
+Program wyświetli następujące dane wyjściowe:
+
+Przeczytalem kawalek od deski do deski.
+

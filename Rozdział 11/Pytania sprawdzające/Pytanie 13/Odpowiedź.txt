@@ -1,0 +1,48 @@
+/* porown.c -- to dziala */
+#include <ctype.h>
+#include <stdio.h>
+#include <string.h>   /* deklaruje strcmp() */
+#define ODPOWIEDZ "GRANT"
+#define MAX 40
+
+char *wczytaj(char *z, int ile);
+void zamienWLancuchuMaleLiteryNaDuze(char *lancuch);
+
+int main(void)
+{
+    char proba[MAX];
+    puts("Kto jest pochowany w grobowcu Granta?");
+    wczytaj(proba, MAX);
+    zamienWLancuchuMaleLiteryNaDuze(proba);
+    while (strcmp(proba,ODPOWIEDZ) != 0)
+    {
+     puts("Niestety to nie jest dobra odpowiedz. Sprobuj jeszcze raz.");
+     wczytaj(proba, MAX);
+     zamienWLancuchuMaleLiteryNaDuze(proba);
+    }
+    puts("Tak jest!");
+    return 0;
+}
+char *wczytaj(char *z, int ile)
+{
+    char * wynik;
+    int i = 0;
+
+    wynik = fgets(z, ile, stdin);
+    if (wynik) // wynik rozny od NULL
+    {
+        while (z[i] != '\n' && z[i] != '\0')
+            i++;
+        if (z[i] == '\n')
+            z[i] = '\0'; // znak nowego wiersza -> znak pusty
+        else             // z[i] == '\0'
+            while (getchar() != '\n')
+                continue;
+    }
+    return wynik;
+}
+void zamienWLancuchuMaleLiteryNaDuze(char *lancuch)
+{
+    for (int i = 0; i < strlen(lancuch); i++)
+        lancuch[i] = toupper(lancuch[i]);
+}

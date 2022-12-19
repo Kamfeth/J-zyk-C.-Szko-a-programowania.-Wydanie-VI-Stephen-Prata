@@ -1,0 +1,8 @@
+a) Ho Ho Ho!!oH oH oH
+b) Do typu char *
+c) Adres pierwszego znaku parametru funkcji.
+d) *--wc najpierw przesuwa wskaźnik do tyłu o jedną pozycję, a następnie uzyskuje wartość z tego adresu. --*wc najpierw uzyskuje wartość ze wskazanego adresu, a następnie dekrementuje tę wartość o jeden.
+e) Ho Ho Ho!!oH Oh o
+f) Warunek w pierwszej pętli while sprawdza, czy wskaźnik wc wskazuje na niezerowy znak. Natomiast drugi while sprawdza, czy wskaźnik wc wskazuje na inny adres niż adres, na który wskazuje wskaźnik lan.
+g) W takim przypadku funkcja będzie w nieskończoność wyświetlać na ekran przypadkowe znaki, które są zapisane niejawnie w pamięci komputera.
+h) Należy umieścić kod ciała funkcji pr nad funkcją main.

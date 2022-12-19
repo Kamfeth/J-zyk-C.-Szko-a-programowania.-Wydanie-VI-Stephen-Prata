@@ -1,0 +1,8 @@
+Program wyświetli następujące dane wyjściowe:
+
+m
+am
+iam
+niam
+Mniam
+

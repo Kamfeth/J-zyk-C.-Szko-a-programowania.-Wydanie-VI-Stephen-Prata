@@ -1,0 +1,18 @@
+Przerobiona funkcja wczytaj prezentuje się następująco:
+
+#include <stdio.h>
+#include <string.h>
+
+char* wczytaj(char *z, const int ile)
+{   
+    char *wynik = fgets(z, ile, stdin);
+    if (wynik)
+    {
+        if (strchr(z, '\n'))
+            *strchr(z, '\n') = '\0';
+        else
+            while (getchar() != '\n')
+                continue;
+    }
+    return wynik;
+}

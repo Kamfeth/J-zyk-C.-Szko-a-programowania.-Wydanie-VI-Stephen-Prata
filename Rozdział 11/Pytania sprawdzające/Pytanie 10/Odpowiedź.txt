@@ -1,0 +1,6 @@
+#include <string.h>
+
+int getLengthOfString(const char string[])
+{
+  return strchr(string, '\0') - string;
+}

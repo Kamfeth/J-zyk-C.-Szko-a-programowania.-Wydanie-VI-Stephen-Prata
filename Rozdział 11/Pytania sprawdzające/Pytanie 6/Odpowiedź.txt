@@ -1,0 +1,1 @@
+Zmienna znak wymaga 1 bajta pamięci, stała znakowa '$' wymaga 4 bajtów pamięci, natomiast łańcuch "$" wymaga 2 bajtów pamięci.

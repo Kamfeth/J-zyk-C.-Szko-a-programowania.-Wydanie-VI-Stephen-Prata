@@ -1,0 +1,1 @@
+Ponieważ każdy łańcuch w języku programowania C musi być zakończony znakiem zerowym, tablica imie nie posiada takiego znaku.
