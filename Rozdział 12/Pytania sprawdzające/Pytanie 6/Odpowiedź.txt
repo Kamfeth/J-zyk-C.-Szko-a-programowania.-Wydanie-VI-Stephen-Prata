@@ -1,0 +1,1 @@
+Różnica polega na tym, że w przeciwieństwie do funkcji malloc, funkcja calloc podczas przydzielania odpowiedniej ilości pamięci, od razu inicjalizuje każdy zwrócony bajt pamięci wartością 0.

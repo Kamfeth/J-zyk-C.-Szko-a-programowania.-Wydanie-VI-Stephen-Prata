@@ -1,0 +1,2 @@
+a) Programista prawdopodobnie będzie chciał użyć zmiennej plink w definicji funkcji wart_licz. Wiadomo również, że przekazywana tablica w funkcji wart_licz, będzie wykorzystywana tylko do odczytu danych. Pozostałe dwa argumenty funkcji odpowiadają kolejno wartości docelowej oraz rozmiarowi tablicy.
+b) Nie, ponieważ do funkcji są przekazywane jedynie kopie tych zmiennych, jednakże dodanie słowa kluczowego const dla tych parametrów uniemożliwi ich modyfikacje w definicji funkcji.

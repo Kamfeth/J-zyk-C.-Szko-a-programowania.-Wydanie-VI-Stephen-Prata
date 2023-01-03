@@ -1,0 +1,1 @@
+Jest to statyczna klasa zmiennych z brakiem łączności, statyczna klasa zmiennych o łączności zewnętrznej oraz statyczna klasa zmienych o łączności wewnętrznej.

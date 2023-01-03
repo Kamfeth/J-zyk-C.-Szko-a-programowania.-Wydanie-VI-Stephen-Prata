@@ -1,0 +1,8 @@
+Program wyświetli następujące dane wyjściowe:
+
+kolor w main() wynosi B
+kolor w pierwsza() wynosi R
+kolor w main() wynosi B
+kolor w pierwsza() wynosi G
+kolor w main() wynosi G
+

@@ -1,0 +1,1 @@
+Słowo kluczowe extern powoduje odwołanie się do zmiennej lub funkcji, która została wcześniej zdefiniowana w innej części aplikacji.

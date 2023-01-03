@@ -1,0 +1,1 @@
+Jest to automatyczna klasa zmiennych, rejestrowa klasa zmiennych oraz statyczna klasa zmiennych bez łączności.

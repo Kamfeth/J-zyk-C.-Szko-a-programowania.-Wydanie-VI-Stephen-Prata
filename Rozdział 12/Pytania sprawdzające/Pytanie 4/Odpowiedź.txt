@@ -1,0 +1,1 @@
+Zmienne o zasięgu blokowym nie mają typu łączności.
