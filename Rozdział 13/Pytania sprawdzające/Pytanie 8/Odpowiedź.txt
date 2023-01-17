@@ -1,0 +1,1 @@
+Dwie pierwsze instrukcje zadziałają identycznie, wypiszą ciąg znaków do standardowego strumienia wyjściowego, natomiast trzecia instrukcja wypisuje ten sam ciąg do standardowego strumienia błędów.

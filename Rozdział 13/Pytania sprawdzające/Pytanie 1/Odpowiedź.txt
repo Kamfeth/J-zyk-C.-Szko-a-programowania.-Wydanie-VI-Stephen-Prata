@@ -1,0 +1,14 @@
+Program zawiera błędy, które zostały poprawione w wersji poniżej:
+
+#include <stdio.h>
+
+int main(void)
+{
+   FILE * wp;
+   int k;
+   wp = fopen("zelatyna", "a");
+   for (k = 0; k < 30; k++)
+       fputs("Nanette je zelatyne.\n", wp);
+   fclose(wp);
+   return 0;
+}

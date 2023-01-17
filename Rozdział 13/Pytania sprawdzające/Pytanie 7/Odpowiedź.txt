@@ -1,0 +1,2 @@
+a) Funkcja fprintf zapisze liczbę 8238201 jako ciąg znaków, natomiast funkcja fwrite zapisze tę liczbę jako 4-bajtową liczbę całkowitą.
+b) W tym przypadku nie ma różnicy w działaniu pomiędzy funkcjami putc a fwrite.

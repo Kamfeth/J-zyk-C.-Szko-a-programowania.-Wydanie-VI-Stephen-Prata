@@ -1,0 +1,4 @@
+a) ch = getc(wp1);
+b) fprintf(wp2, "%c\n, ch);
+c) putc(ch, wp2);
+d) fclose(wp1); /* zamyka plik baton */
