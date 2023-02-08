@@ -1,0 +1,14 @@
+10 Maciej Zielinski 14 10 8 5
+0 Kamil Paradowski 21 21 3 7
+1 Filip Kubski 11 5 6 2
+2 Wiktor Wojtas 7 2 1 0
+3 Janusz Pogorzelski 13 11 5 3
+4 Wiktor Kruk 10 4 7 1
+5 Kamil Pietkun 24 19 6 8
+1 Filip Kubski 14 4 3 4
+6 Kacper Walukiewicz 9 8 2 0
+7 Piotr Nawrocki 5 0 1 3
+8 Piotr Taterka 10 7 4 6
+10 Maciej Zielinski 8 5 5 7
+9 Mateusz Zawistowski 7 1 7 0
+10 Maciej Zielinski 27 20 7 4

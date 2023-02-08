@@ -1,0 +1,10 @@
+a) struct paliwo przygotujPelnyRaportZPodrozy(struct paliwo daneZPodrozy)
+   {
+     daneZPodrozy.kml = daneZPodrozy.odleglosc / daneZPodrozy.litry;
+     return daneZPodrozy;
+   }
+
+b) void przygotujPelnyRaportZPodrozy(struct paliwo *daneZPodrozy)
+   {
+     daneZPodrozy->kml = daneZPodrozy->litry > 0 ? daneZPodrozy->odleglosc / daneZPodrozy->litry : 0.0;
+   }

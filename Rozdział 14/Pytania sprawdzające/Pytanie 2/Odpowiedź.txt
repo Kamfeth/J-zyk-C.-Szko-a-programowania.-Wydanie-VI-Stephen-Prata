@@ -1,0 +1,6 @@
+Program wyświetli następujące dane wyjściowe:
+
+6 1
+ul. Kernighana 22
+K e
+

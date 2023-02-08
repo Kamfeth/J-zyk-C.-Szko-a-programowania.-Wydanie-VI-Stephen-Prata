@@ -1,0 +1,8 @@
+a) #include <string.h>
+   
+   OBIEKTYW obiektywy[10];
+   obiektywy[2].ogniskowa = 500.0;
+   obiektywy[2].apertura = 2.0;
+   strcpy(obiektywy[2].marka, "Remarkatar");
+   
+b) OBIEKTYW obiektywy[10] = {[2] = {500.0, 2.0, "Remarkatar"}};

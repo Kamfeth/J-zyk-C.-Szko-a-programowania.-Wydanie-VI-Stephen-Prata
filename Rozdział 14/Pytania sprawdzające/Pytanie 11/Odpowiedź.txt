@@ -1,0 +1,1 @@
+enum wybor {tak, nie, moze};

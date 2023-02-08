@@ -1,0 +1,14 @@
+a) 6
+   Arkturianin
+   kturianin
+   
+b) deb.tytul.nazw
+   wb->tytul.nazw
+   
+c) #include "pozaziem.h"
+   #include <stdio.h>
+
+   void wyswietlZawartoscStruktury(const struct bem *kosmita)
+   {
+      printf("%s %s jest %sem o %d konczynach.", kosmita->tytul.imie, kosmita->tytul.nazw, kosmita->typ, kosmita->konczyny);
+   }

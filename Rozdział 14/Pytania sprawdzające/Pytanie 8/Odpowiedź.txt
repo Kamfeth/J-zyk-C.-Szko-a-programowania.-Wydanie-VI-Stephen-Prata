@@ -1,0 +1,8 @@
+a) willie.data_ur
+b) wsk->data_ur
+c) scanf("%d", &willie.data_ur);
+d) scanf("%d", &wsk->data_ur);
+e) scanf("%s", willie.dane.nazwisko);
+f) scanf("%s", wsk->dane.nazwisko);
+g) willie.dane.imie[2]
+h) strlen(willie.dane.imie) + strlen(willie.dane.nazwisko)

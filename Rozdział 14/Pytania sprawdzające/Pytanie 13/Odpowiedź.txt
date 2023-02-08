@@ -1,0 +1,23 @@
+double addTwoNumbers(const double firstNumber, const double secondNumber)
+{
+  return firstNumber + secondNumber;
+}
+
+double substractTwoNumbers(const double firstNumber, const double secondNumber)
+{
+  return firstNumber - secondNumber;
+}
+
+double multiplyTwoNumbers(const double firstNumber, const double secondNumber)
+{
+  return firstNumber * secondNumber;
+}
+
+double divideTwoNumbers(const double firstNumber, const double secondNumber)
+{
+  return firstNumber / secondNumber;
+}
+
+double (*pointers[4])(const double, const double) = {addTwoNumbers, substractTwoNumbers, multiplyTwoNumbers, divideTwoNumbers};
+printf("Wynik wybranego działania matematycznego = %lf\n", pointers[1](10.0, 2.5));
+printf("Wynik wybranego działania matematycznego = %lf\n", (*pointers[1])(10.0, 2.5));

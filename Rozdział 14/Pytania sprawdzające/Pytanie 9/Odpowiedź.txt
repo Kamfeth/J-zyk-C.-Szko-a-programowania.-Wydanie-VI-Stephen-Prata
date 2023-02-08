@@ -1,0 +1,8 @@
+struct samochod
+{
+  char nazwa[51];
+  double mocSilnikaWKoniachMechanicznych;
+  double zuzyciePaliwaNa100KmWWarunkachMiejskich;
+  int rozstawOsi;
+  int rocznik;
+};

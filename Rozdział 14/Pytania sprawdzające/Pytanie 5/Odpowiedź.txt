@@ -1,0 +1,10 @@
+#include "Miesiac.h"
+
+int policzLiczbeDniOdPierwszegoStyczniaDoOstatniegoDniaMiesiaca(const int numerMiesiaca)
+{
+  extern const struct Miesiac miesiace[12];
+  int liczbeDniOdPierwszegoStyczniaDoOstatniegoDniaMiesiaca = 0;
+  for (int i = 0; numerMiesiaca >= 1 && numerMiesiaca <= 12 && i < numerMiesiaca; i++)
+    liczbeDniOdPierwszegoStyczniaDoOstatniegoDniaMiesiaca += miesiace[i].liczbaDni;
+  return liczbeDniOdPierwszegoStyczniaDoOstatniegoDniaMiesiaca;
+}
