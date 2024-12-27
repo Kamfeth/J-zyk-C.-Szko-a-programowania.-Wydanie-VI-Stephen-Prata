@@ -1,4 +1,4 @@
-# Język C. Szkoła programowania, Wydanie VI (Stephen Prata)
+# Język C Szkoła programowania, Wydanie VI (Stephen Prata)
 
 https://helion.pl/ksiazki/jezyk-c-szkola-programowania-wydanie-vi-stephen-prata,jcszp6.htm#format/d
 
